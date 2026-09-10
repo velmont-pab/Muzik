@@ -1,0 +1,10 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+
+# Ignore folders
+Lista Pablo/
+Lista Papá/
+Musica/
+Musik/
