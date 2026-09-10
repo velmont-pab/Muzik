@@ -2,7 +2,7 @@
 venv/
 .venv/
 env/
-.env
+rutas.env
 
 # Ignore folders
 Lista Pablo/
